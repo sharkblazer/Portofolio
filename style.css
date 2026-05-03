@@ -197,10 +197,10 @@ img { max-width: 100%; display: block; }
   transition-delay: 0.2s;
 }
 .hero-desc {
-  font-size: 1.1rem;
+  font-size: 1.1em;
   color: var(--text-muted);
   max-width: 500px;
-  margin-bottom: 0.3rem;
+  margin-bottom: 2rem;
   transition-delay: 0.3s;
 }
 .hero-desc-id {
